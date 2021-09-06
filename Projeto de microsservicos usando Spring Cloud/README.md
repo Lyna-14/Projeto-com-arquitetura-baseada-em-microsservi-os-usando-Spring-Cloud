@@ -1,4 +1,4 @@
-# Construir um Projeto com arquitetura baseada em Microsservicos usando Spring Cloud 
+# Projeto com arquitetura baseada em Microsservicos usando Spring Cloud 
 
 ### OBJETIVO
 O objetivo de projeto é aprender como funciona uma arquitetura de software de microsserviços utilizando o spring cloud.
